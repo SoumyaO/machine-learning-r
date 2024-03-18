@@ -1,5 +1,5 @@
 # Machine Learning in R
-[code](https://github.com/SoumyaO/machine-learning-r/blob/main/code) | [Report](https://github.com/SoumyaO/machine-learning-r/blob/main/OgotiSoumyaSMM636.pdf)
+[code](https://github.com/SoumyaO/machine-learning-r/blob/main/code) | [Report](https://github.com/SoumyaO/machine-learning-r/blob/main/Report.pdf)
 
 ## Keywords
 Decision Trees, Random Forests, Support Vector Machines (SVM), Kernel Engineering, kNN Classifier, Linear Discriminant Analysis (LDA), Principal Component Analysis (PCA)
